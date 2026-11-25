@@ -1,4 +1,4 @@
-# Lingua Pro96
+# Bilingua Pro96
 
 Modern Multilingual Translator for Android.
 
